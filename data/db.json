@@ -1,0 +1,40 @@
+{
+  "notes": [
+    {
+      "title": "Making Krep",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Labore animi cum facere cupiditate deleniti. Quo aspernatur ducimus aperiam, iste praesentium quisquam temporibus molestiae nihil placeat sunt magnam harum totam laudantium?",
+      "category": "work",
+      "id": 2
+    },
+    {
+      "title": "Serving to olders",
+      "details": "Nice behaviours for youngs",
+      "category": "todos",
+      "id": 4
+    },
+    {
+      "title": "ttttttt",
+      "details": "asdfghj",
+      "category": "todos",
+      "id": 5
+    },
+    {
+      "title": "fhfgh",
+      "details": "dfhfdhfghfghfghf",
+      "category": "reminders",
+      "id": 6
+    },
+    {
+      "title": "fffffffffff",
+      "details": "rrrrrrrrrrrrrrrrr",
+      "category": "reminders",
+      "id": 7
+    },
+    {
+      "title": "fhfghfghfg",
+      "details": "ıljljkljklkjljklkj",
+      "category": "work",
+      "id": 8
+    }
+  ]
+}
